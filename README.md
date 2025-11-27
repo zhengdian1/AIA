@@ -8,6 +8,11 @@
 [![Project Page](https://img.shields.io/badge/AIA-Website-green?logo=googlechrome&logoColor=green)](https://zhengdian1.github.io/AIA-project/)
 ![Visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhengdian1%2FAIA&label=Visitors&icon=people&color=%23FFA500)
 
+This repository contains the implementation of the following paper.
+
+> **Architecture Decoupling Is Not All You Need For Unified Multimodal Model**<br>
+> [Dian Zheng](https://zhengdian1.github.io/), [Manyuan Zhang](https://manyuan97.github.io), [Hongyu Li](https://scholar.google.com/citations?hl=zh-CN&user=PccL82sAAAAJ), [Kai Zou](https://github.com/Jacky-hate), [Hongbo Liu](https://github.com/Alexios-hub), [Ziyu Guo](https://ziyuguo99.github.io/), [Kaituo Feng](https://tulerfeng.github.io/),  [Yexin Liu](https://scholar.google.com/citations?user=Y8zBpcoAAAAJ&hl=zh-CN), [Ying Luo](https://scholar.google.com/citations?user=-VlvW5IAAAAJ&hl=en), [Yan Feng](https://scholar.google.com/citations?user=m4f3F4cAAAAJ&hl=en), [Peng Pei](https://openreview.net/profile?id=~Peng_Pei1),[Xunliang Cai](https://openreview.net/profile?id=~Xunliang_Cai1), [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)<sup>+</sup><br>
+
 ## :fire: Updates
 - [11/2025] :fire: **We released the training, inference, evaluation code, checkpoint of AIA!** :fire: 
 
