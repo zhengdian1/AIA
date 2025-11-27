@@ -1,0 +1,45 @@
+common:
+    output_path: YOUR_SAVE_PATH/ckpt
+    pre_path: YOUR_SAVE_PATH/ckpt
+    log_path: YOUR_SAVE_PATH/ckpt/logs
+    save_per_iters: 1000
+    use_bf16: 1
+    use_fp16: 0
+    use_fsdp: 1
+    use_zero: 0
+    random_seed: 1024
+    log_interval: 1
+    machines: 1
+    task: 't2i'
+
+optimize:
+    max_epochs: 4
+    warmup_epochs: 0.1
+
+    lr: 2.0e-5
+    lr_scheduler: 'cosine'
+    optimizer: 'adamw'
+    weight_decay: 0.05
+    betas: [0.9, 0.95]
+    eps: 1.0e-06
+
+model:
+    model_path: deepseek-ai/Janus-Pro-7B
+    processor_path: deepseek-ai/Janus-Pro-7B
+
+dataloader:
+    und_data_path: YOUR_UNDERSTANDING_DATA_PATH
+    gen_data_path: YOUR_GENERATION_DATA_PATH
+    num_workers: 4
+    prefetch_factor: 4
+    sampler_shuffle: False
+    tasks: [0,1]
+    train:
+        use_local_shuffle: True
+        task1:
+          batch_size: 4
+          sample_ratio: 10
+        task2:
+          batch_size: 4
+          sample_ratio: 10
+        
