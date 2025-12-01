@@ -4,7 +4,7 @@
 - Code Issues: Please open an [issue](https://github.com/zhengdian1/AIA/issues) in our GitHub repository for any problems or bugs.
 - General Inquiries: Contact Dian Zheng at zhengd35 [at] mail2 [at] sysu [at] edu [at] cn. 
 
-[![AIA Report (Arxiv)](https://img.shields.io/badge/AIA%20Report-b31b1b?logo=arxiv&logoColor=red)](https://github.com/zhengdian1/AIA/tree/main/asset/aia_arxiv.pdf)
+[![AIA Report (Arxiv)](https://img.shields.io/badge/AIA%20Report-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2511.22663)
 [![Project Page](https://img.shields.io/badge/AIA-Website-green?logo=googlechrome&logoColor=green)](https://zhengdian1.github.io/AIA-project/)
 ![Visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhengdian1%2FAIA&label=Visitors&icon=people&color=%23FFA500)
 
