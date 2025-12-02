@@ -91,7 +91,7 @@ bash run.sh
 
 **Inference**
 
-First, downloading our [checkpoint (coming soon)](https://github.com/zhengdian1/AIA/tree/main)
+First, downloading our [checkpoint](https://huggingface.co/zhengli1013/AIA/tree/main)
 
 Then, we provide inference codes for result or our proposed cross-modal interaction pattern plot.
 
