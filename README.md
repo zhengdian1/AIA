@@ -134,7 +134,7 @@ Additionaly, we use the long text prompt for GenEval from [BAGEL](https://github
     @article{zheng2025architecture,
       title={Architecture Decoupling Is Not All You Need For Unified Multimodal Model},
       author={Zheng, Dian and Zhang, Manyuan and Li, Hongyu and Zou, Kai and Liu, Hongbo and Guo, Ziyu and Feng, Kaituo and Liu, Yexin and Luo, Ying and Feng, Yan and Pei, Peng and Cai, Xunliang and Li, Hongsheng},
-      journal={arXiv preprint arXiv:2503.21755},
+      journal={arXiv preprint arXiv:2511.22663},
       year={2025}
     }
    ```
